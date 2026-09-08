@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<article>
+  <header>
+    <h1>{{ page.title }}</h1>
+    <small>Publié le {{ page.date | date: "%d %B %Y" }} dans {{ page.categories | join: ", " }}</small>
+  </header>
+  
+  <div>
+    {{ content }}
+  </div>
+  
+  <footer>
+    <hr>
+    <p>Partagez cet article :</p>
+    <a href="#" target="_blank" rel="noopener">Facebook</a> |
+    <a href="#" target="_blank" rel="noopener">Twitter</a> |
+    <a href="#" target="_blank" rel="noopener">LinkedIn</a>
+  </footer>
+</article>
+
+<a href="{{ site.baseurl }}/news" class="button">Retour aux actualités</a>

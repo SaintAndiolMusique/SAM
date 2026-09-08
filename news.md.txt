@@ -1,0 +1,22 @@
+---
+layout: default
+title: Actualités
+---
+
+# Nos Actualités 📢
+
+Découvrez les dernières nouvelles de notre association !
+
+---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <small>Publié le {{ post.date | date: "%d %B %Y" }}</small>
+      <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+      <a href="{{ post.url }}" class="button">Lire la suite</a>
+      <hr>
+    </li>
+  {% endfor %}
+</ul>

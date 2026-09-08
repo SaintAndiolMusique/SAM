@@ -1,0 +1,30 @@
+<footer>
+  <div class="container">
+    <div class="social-links">
+      {% if site.social.facebook %}
+        <a href="{{ site.social.facebook }}" target="_blank" rel="noopener">
+          <i class="fab fa-facebook"></i>
+        </a>
+      {% endif %}
+      {% if site.social.twitter %}
+        <a href="{{ site.social.twitter }}" target="_blank" rel="noopener">
+          <i class="fab fa-twitter"></i>
+        </a>
+      {% endif %}
+      {% if site.social.instagram %}
+        <a href="{{ site.social.instagram }}" target="_blank" rel="noopener">
+          <i class="fab fa-instagram"></i>
+        </a>
+      {% endif %}
+    </div>
+    
+    <p>
+      &copy; {{ site.time | date: "%Y" }} {{ site.name }}. Tous droits réservés.
+    </p>
+    
+    <p>
+      <a href="{{ site.baseurl }}/contact">Contact</a> |
+      <a href="{{ site.baseurl }}/about">À propos</a>
+    </p>
+  </div>
+</footer>

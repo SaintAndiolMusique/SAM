@@ -1,0 +1,25 @@
+name: "Nom de ton Association"
+description: "Description courte de ton association"
+url: "https://ton-username.github.io"  # À remplacer par ton URL GitHub Pages
+title: "Nom de ton Association"
+email: "contact@ton-association.fr"
+author: "Ton Nom"
+
+# Paramètres pour Jekyll
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Menu de navigation
+header_pages:
+  - index.md
+  - about.md
+  - news.md
+  - contact.md
+
+# Réseaux sociaux (optionnel)
+social:
+  facebook: "https://facebook.com/ton-association"
+  twitter: "https://twitter.com/ton-association"
+  instagram: "https://instagram.com/ton-association"

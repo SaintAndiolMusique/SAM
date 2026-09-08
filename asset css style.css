@@ -1,0 +1,232 @@
+/* Reset et variables */
+:root {
+  --primary-color: #4a6fa5;
+  --secondary-color: #166088;
+  --accent-color: #4fc3f7;
+  --text-color: #333;
+  --light-text: #777;
+  --bg-color: #fff;
+  --light-bg: #f9f9f9;
+  --button-color: var(--primary-color);
+  --button-hover: var(--secondary-color);
+  --border-radius: 5px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+/* Header */
+header {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 15px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  color: white;
+  text-decoration: none;
+}
+
+.logo h1 {
+  font-size: 1.8rem;
+}
+
+.logo img {
+  max-height: 60px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav ul li {
+  margin-left: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+  color: var(--accent-color);
+}
+
+/* Main */
+main {
+  padding: 30px 0;
+}
+
+/* Boutons */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: var(--button-color);
+  color: white;
+  text-decoration: none;
+  border-radius: var(--border-radius);
+  transition: background-color 0.3s;
+  font-weight: 500;
+}
+
+.button:hover {
+  background-color: var(--button-hover);
+}
+
+/* Actualités */
+ul {
+  list-style: none;
+}
+
+ul li {
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: var(--light-bg);
+  border-radius: var(--border-radius);
+}
+
+ul li h3 {
+  margin-bottom: 5px;
+}
+
+ul li small {
+  color: var(--light-text);
+}
+
+ul li p {
+  margin: 10px 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 20px 0;
+}
+
+/* Article */
+article {
+  margin-bottom: 40px;
+}
+
+article header {
+  margin-bottom: 20px;
+}
+
+article header h1 {
+  margin-bottom: 10px;
+}
+
+article header small {
+  color: var(--light-text);
+}
+
+/* Formulaire */
+form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: var(--border-radius);
+  font-family: inherit;
+}
+
+form textarea {
+  resize: vertical;
+}
+
+form button {
+  cursor: pointer;
+}
+
+/* Footer */
+footer {
+  background-color: var(--secondary-color);
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.social-links {
+  margin-bottom: 15px;
+}
+
+.social-links a {
+  color: white;
+  margin: 0 10px;
+  font-size: 1.5rem;
+  transition: color 0.3s;
+}
+
+.social-links a:hover {
+  color: var(--accent-color);
+}
+
+footer p {
+  margin: 10px 0;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  header .container {
+    flex-direction: column;
+  }
+  
+  nav ul {
+    margin-top: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin: 5px 10px;
+  }
+}

@@ -1,0 +1,19 @@
+site-association/
+├── _config.yml              # Configuration du site (nom, description, etc.)
+├── _includes/
+│   ├── header.html          # En-tête du site (menu de navigation)
+│   └── footer.html          # Pied de page (liens utiles)
+├── _layouts/
+│   ├── default.html         # Template principal
+│   ├── post.html            # Template pour les articles
+│   └── page.html            # Template pour les pages statiques
+├── _posts/                  # Articles pour les actualités
+│   └── 2026-09-08-bienvenue.md  # Exemple d'article
+├── assets/
+│   ├── css/
+│   │   └── style.css        # Styles CSS personnalisés
+│   └── images/              # Dossier pour tes images
+├── index.md                 # Page d'accueil
+├── about.md                 # Page "À propos"
+├── contact.md               # Page "Contact"
+└── news.md                  # Page "Actualités"
