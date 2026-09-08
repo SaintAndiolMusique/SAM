@@ -1,9 +1,9 @@
-name: "Nom de ton Association"
+name: "Saint Andiol Musique SAM"
 description: "Description courte de ton association"
-url: "https://ton-username.github.io"  # À remplacer par ton URL GitHub Pages
-title: "Nom de ton Association"
-email: "contact@ton-association.fr"
-author: "Ton Nom"
+url: "https://saintandiolmusique.github.io/SAM/"  # À remplacer par ton URL GitHub Pages
+title: "Saint Andiol Musique SAM"
+email: "standiolmusique@gmail.com"
+author: "SAM"
 
 # Paramètres pour Jekyll
 theme: minima
