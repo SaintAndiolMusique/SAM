@@ -27,16 +27,13 @@ title: À propos
 
 ### **Président(e)**
 - **Nom** : Arnaud Redheuil
-- **Rôle** : [Décris son rôle]
-- **Contact** : [Email ou téléphone]
+- **Contact** : standiolmusique@gmail.com
 
 ### **Secrétaire**
 - **Nom** : Delphine Canavéro
-- **Rôle** : [Décris son rôle]
 
 ### **Trésorier(ère)**
 - **Nom** : Romain Dahan
-- **Rôle** : [Décris son rôle]
 
 ---
 
