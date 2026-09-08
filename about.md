@@ -26,16 +26,16 @@ title: À propos
 [Présente les membres clés de ton association. Par exemple :]
 
 ### **Président(e)**
-- **Nom** : [Nom du président]
+- **Nom** : Arnaud Redheuil
 - **Rôle** : [Décris son rôle]
 - **Contact** : [Email ou téléphone]
 
 ### **Secrétaire**
-- **Nom** : [Nom du secrétaire]
+- **Nom** : Delphine Canavéro
 - **Rôle** : [Décris son rôle]
 
 ### **Trésorier(ère)**
-- **Nom** : [Nom du trésorier]
+- **Nom** : Romain Dahan
 - **Rôle** : [Décris son rôle]
 
 ---
