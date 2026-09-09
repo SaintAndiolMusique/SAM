@@ -3,11 +3,11 @@ layout: default
 title: Accueil
 ---
 
-# Bienvenue sur le site de [Nom de ton Association] 🌟
+# Bienvenue sur le site de Saint Andiol Musique - SAM🌟
 
 ![Logo de l'association](assets/images/logo.png){: style="max-width: 300px; margin: 20px auto; display: block;"}
 
-Nous sommes une association engagée pour **[ta mission]**. Découvrez notre travail, nos actualités et comment nous rejoindre !
+Nous sommes une association engagée pour soutenir, animer et fédérer autour de la musique, sans besoin d’être musicien pour nous rejoindre !. Découvrez notre travail, nos actualités et comment nous rejoindre !
 
 ## 📢 Dernières Actualités
 
@@ -28,8 +28,11 @@ Nous sommes une association engagée pour **[ta mission]**. Découvrez notre tra
 
 [Brève description de la mission de ton association. Par exemple :]
 
-> "Notre objectif est de **[décrire ta mission]**. Nous agissons pour **[tes valeurs]** et cherchons à **[ton impact]**."
-
+> "Notre objectif est de Nos actions
+ - Location d’instruments aux élèves débutants, pour découvrir la musique sans investissement lourd.
+ - Sorties culturelles : visites d’opéras, concerts, soirées à thème pour explorer l’univers musical.
+ - Animation des événements de l’école de musique : buvettes, tombolas, temps conviviaux.
+ - Accueil des idées : vos propositions sont les bienvenues !"
 ---
 
 ## 📞 Contacte-nous
