@@ -29,19 +29,18 @@ Envoyez-nous un message via ce formulaire :
 
 ## 📍 Nos Coordonnées
 
-- **Adresse** : [Ton adresse physique, si applicable]
-- **Email** : [contact@ton-association.fr](mailto:contact@ton-association.fr)
+- **Adresse** : Place du Général De Gaulle 13670 Saint Andiol
+- **Email** : standiolmusique@gmail.com
 - **Téléphone** : [Ton numéro de téléphone, si applicable]
 
 ---
 
 ## 🌐 Réseaux Sociaux
 
-[Ajoute les liens vers tes réseaux sociaux. Par exemple :]
 
-- [Facebook](https://facebook.com/ton-association)
-- [Twitter](https://twitter.com/ton-association)
-- [Instagram](https://instagram.com/ton-association)
+
+- [Facebook](https://www.facebook.com/profile.php?id=61586801604851&locale=fr_FR)
+
 
 ---
 
