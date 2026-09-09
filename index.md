@@ -28,7 +28,8 @@ Nous sommes une association engagée pour soutenir, animer et fédérer autour d
 
 
 
-> "Notre objectif est de Nos actions
+> "Nos objectifs
+> 
  - Location d’instruments aux élèves débutants, pour découvrir la musique sans investissement lourd.
  - Sorties culturelles : visites d’opéras, concerts, soirées à thème pour explorer l’univers musical.
  - Animation des événements de l’école de musique : buvettes, tombolas, temps conviviaux.
