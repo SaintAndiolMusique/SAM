@@ -26,7 +26,7 @@ Nous sommes une association engagée pour soutenir, animer et fédérer autour d
 
 ## 🎯 Notre Mission
 
-[Brève description de la mission de ton association. Par exemple :]
+
 
 > "Notre objectif est de Nos actions
  - Location d’instruments aux élèves débutants, pour découvrir la musique sans investissement lourd.
