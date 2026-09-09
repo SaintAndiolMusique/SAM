@@ -10,19 +10,19 @@ title: Contact
 Envoyez-nous un message via ce formulaire :
 
 <form action="https://formspree.io/f/ton-id-formspree" method="POST">
-  <label for="name">Nom :</label>
+ - <label for="name">Nom :</label>
   <input type="text" id="name" name="name" required>
 
-  <label for="email">Email :</label>
+ - <label for="email">Email :</label>
   <input type="email" id="email" name="email" required>
 
-  <label for="subject">Sujet :</label>
+ - <label for="subject">Sujet :</label>
   <input type="text" id="subject" name="subject" required>
 
-  <label for="message">Message :</label>
+ - <label for="message">Message :</label>
   <textarea id="message" name="message" rows="5" required></textarea>
 
-  <button type="submit" class="button">Envoyer</button>
+ - <button type="submit" class="button">Envoyer</button>
 </form>
 
 ---
